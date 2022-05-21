@@ -1,0 +1,11 @@
+{
+  "name": "solid-js",
+  "version": "1.0.0",
+  "description": "SOLID exercises",
+  "main": "SingleResponsability.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Franklin Velasquez",
+  "license": "ISC"
+}
